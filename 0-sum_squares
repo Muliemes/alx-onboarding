@@ -1,0 +1,6 @@
+the pseudocode to add the sum of the SQUARE of the two numbers is 
+
+
+let A=x*x
+let B=y*y
+let C=A+B
